@@ -6,3 +6,4 @@ Mi primer repositorio de Github
 //git commit -am "mensaje"
 //git push origin main
 # Documentacion 2 (developer 2)
+documentacion de desarrollador 2
