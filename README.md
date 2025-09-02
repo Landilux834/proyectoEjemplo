@@ -5,4 +5,5 @@ Mi primer repositorio de Github
 //git pull origin main
 //git commit -am "mensaje"
 //git push origin main
-# Documentacion 2 (developer 2)
+# Documentacion 1 (developer 1)
+Documentacion del desarrollador 1
